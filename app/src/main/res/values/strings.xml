@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Imaged</string>
+    <string name="new_image">New Image</string>
+    <string name="no_network">No Network Connection Detected</string>
+</resources>

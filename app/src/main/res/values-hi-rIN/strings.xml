@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Imaged</string>
+    <string name="new_image">नया चित्र</string>
+    <string name="no_network">कोई नेटवर्क कनेक्शन नहीं मिला</string>
+</resources>
